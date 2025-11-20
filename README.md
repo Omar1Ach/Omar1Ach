@@ -16,13 +16,14 @@
 
 ```typescript
 const omar = {
+    name: "Omar Achbani",
     title: "Full-Stack Developer & Scrum Master",
     location: "Morocco 🇲🇦",
     education: "Master's in Computer Systems Engineering",
     company: "NextTechInnov",
     languages: ["Arabic", "French", "English"],
     currentFocus: "Building EcoRide - Bike sharing platform for tourists",
-    passions: ["Microservices Architecture", "Clean Code", "AI & Content Creation"]
+    passions: ["Microservices Architecture", "Clean Code", "Software Design Patterns"]
 };
 ```
 
@@ -103,12 +104,6 @@ const omar = {
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🐾 Spotting Cuteness</h3>
-<div align="center">
-<a href="https://www.tiktok.com/@spottingcuteness" target="_blank"><img src="https://img.shields.io/badge/View%20Page-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-<p><strong>AI Video Generation • Content Strategy</strong></p>
-<p>Viral pet content creation using AI tools (Veo 3) and optimized social media marketing strategies</p>
-</div>
 </td>
 </tr>
 </table>
@@ -171,7 +166,6 @@ const achievements = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-achbani)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.achbani@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omar1Ach)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@spottingcuteness)
 
 </div>
 
@@ -182,16 +176,16 @@ const achievements = {
 ```yaml
 Learning: 
   - Advanced JavaScript patterns (closures, async/await, ES6+)
-  - AI video generation optimization
+  - Progressive Web Apps (PWA) best practices
   
 Building:
   - EcoRide: Tourist bike sharing platform for Morocco
-  - BioVisionLab: Educational 3D medical animations for TikTok
+  - Microservices architecture optimization
   
 Exploring:
-  - Microservices orchestration at scale
-  - Progressive Web Apps (PWA) best practices
-  - AI-powered content creation workflows
+  - Kubernetes orchestration at scale
+  - Clean Architecture patterns
+  - Event-driven microservices design
 ```
 
 ---
