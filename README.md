@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Omar%20Benhamza&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20.NET%20•%20React%20•%20Azure&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Omar%20Achbani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20.NET%20•%20React%20•%20Azure&descAlignY=55&descSize=18" />
 </div>
 
 <h3 align="center">🚀 Building scalable enterprise solutions with Clean Architecture & Microservices</h3>
